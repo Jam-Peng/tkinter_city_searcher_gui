@@ -1,0 +1,14 @@
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+亞洲城市天氣查詢器專案說明.pdf
+專案報告封面.jpg
+專案報告.ai
+
+.DS_Store
+db.sqlite3
+__pycache__/
+*.ipynb  
+
