@@ -36,7 +36,7 @@ https://openweathermap.org/<br>
 
 ### 使用技術
 - 使用物件導向設計主程式 `class App(tk.Frame)` 和一週天氣的分頁 `class Pages(tk.Frame)`。
-- 使用 `geopy` 庫取得城市經緯度座標，透過`timezonefinder`查詢座標的對應時區，再使用`Pytz`處理時間的轉換。
+- 使用 `geopy` 庫取得城市經緯度座標，透過`timezonefinder`查詢座標的對應時區，再使用`Pytz`處理時間轉換。
 
 
 ### 使用套件
