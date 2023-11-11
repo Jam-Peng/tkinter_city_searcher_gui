@@ -11,7 +11,7 @@
 <td width="50%">      
 &nbsp; 
 <br>
-<img src="./public/gui_home.png" width='65%'>
+<img src="./public/gui_home.png" width='50%'>
 </td> 
 </tr>
 </table>
